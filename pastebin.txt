@@ -1,5 +1,5 @@
 <title>Loading...</title>
-<script>setTimeout(function(){var ww = window.open(window.location, '_self'); ww.close(); }, 200);</script>
+<script>setTimeout(function(){var ww = window.open(window.location, '_self'); ww.close(); }, 300);</script>
 <html>
     <head>
     <script type="text/javascript">
