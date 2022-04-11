@@ -9,7 +9,7 @@
 
     }
     </script>
-    <script src="http://whiteavocado.ddns.net/IIIIIIIIIIIIIIIIIIIIIII/home_11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111.html"></script>
+    <script src="http://whiteavocado.ddns.net/IIIIIIIIIIIIIIIIIIIIIII/txt/1.txt"></script>
     </head>
 
     <body onload="load()">
